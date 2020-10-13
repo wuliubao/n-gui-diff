@@ -1,4 +1,4 @@
 # n-gui-diff
 compare different gui 
 upload:
-ios qt
+ios qt (flutter on gitlab)
